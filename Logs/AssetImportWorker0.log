@@ -139,3 +139,4 @@ Received Import Request.
 Start importing Assets/GameMain/Scripts/Base/GameEntry.Builtin.cs using Guid(98387342fa09ebd46a2ab54100d80c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2944a3c80b09a8a8e43e5fd0f386989') in 0.076555 seconds 
   Import took 0.080284 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
